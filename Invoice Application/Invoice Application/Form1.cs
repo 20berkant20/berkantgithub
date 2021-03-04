@@ -24,13 +24,7 @@ namespace Invoice_Application
 
         }
 
-       private decimal Button2_Click(object sender, EventArgs e)
-        {
-            decimal label3; * label1
-            decimal label4; - label3
-
-           
-            label3.ToString;
+     
 
         }
 

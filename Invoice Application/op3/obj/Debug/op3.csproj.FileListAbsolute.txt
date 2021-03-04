@@ -1,0 +1,10 @@
+C:\Users\berka\source\repos\berkantgithub\Invoice Application\op3\bin\Debug\op3.exe.config
+C:\Users\berka\source\repos\berkantgithub\Invoice Application\op3\bin\Debug\op3.exe
+C:\Users\berka\source\repos\berkantgithub\Invoice Application\op3\bin\Debug\op3.pdb
+C:\Users\berka\source\repos\berkantgithub\Invoice Application\op3\obj\Debug\op3.csprojAssemblyReference.cache
+C:\Users\berka\source\repos\berkantgithub\Invoice Application\op3\obj\Debug\op3.Form1.resources
+C:\Users\berka\source\repos\berkantgithub\Invoice Application\op3\obj\Debug\op3.Properties.Resources.resources
+C:\Users\berka\source\repos\berkantgithub\Invoice Application\op3\obj\Debug\op3.csproj.GenerateResource.cache
+C:\Users\berka\source\repos\berkantgithub\Invoice Application\op3\obj\Debug\op3.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\berkantgithub\Invoice Application\op3\obj\Debug\op3.exe
+C:\Users\berka\source\repos\berkantgithub\Invoice Application\op3\obj\Debug\op3.pdb
